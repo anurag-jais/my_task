@@ -1,0 +1,64 @@
+.imageInfo {
+  margin-top: 18px;
+  margin-left: 62px;
+}
+.header {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  margin-left: 17px;
+  border-bottom: 2px solid transparent;
+}
+.sider {
+  margin-top: 22px;
+  margin-left: 22px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.contentCards {
+  padding: 24;
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}
+h3 {
+  margin-left: 20px;
+}
+.UnderlineNav {
+  overflow: auto;
+}
+.UnderlineNav-body {
+  display: flex;
+}
+.UnderlineNav-item {
+  padding: 8px 8px;
+  margin-right: 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #586069;
+  text-align: center;
+  border-bottom: 2px solid transparent;
+}
+.UnderlineNav-item.selected {
+  font-weight: 600;
+  color: #24292e;
+  border-bottom-color: #e36209;
+}
+.Items {
+  /* margin-right: 5px; */
+}
+.ant-btn-primary {
+  color: black;
+  background-color: lightgrey;
+  border-color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.ant-btn-block {
+  width: 95%;
+}

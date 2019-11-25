@@ -1,0 +1,25 @@
+.Card {
+  width: 450px;
+  height: 100px;
+  padding: 20px;
+  /* text-align: center; */
+  border: 1px solid #eee;
+  border-radius: 4px 4px;
+  box-shadow: 0 2px 3px #ccc;
+  margin: 8px;
+  /* box-sizing: border-box; */
+}
+/* .Card:hover,
+.Card:active {
+  background-color: #c0ddf5;
+} */
+.Technology {
+  display: flex;
+}
+/* .Icons {
+  display: flex;
+  justify-content: space-evenly;
+} */
+/* .Cards {
+  background-color: grey;
+} */
